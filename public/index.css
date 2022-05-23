@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    width: 80%;
+    margin: auto;
+}
+h1{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+button{
+    background-color: bisque;
+    color: rgb(21, 34, 34);
+    margin-left: 300px;
+}
